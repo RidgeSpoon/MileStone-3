@@ -1,0 +1,26 @@
+C:\Users\withe\source\repos\Mile-Stone Inventory Moving List\Mile-Stone Inventory Moving List\obj\Debug\net6.0-windows\Mile-Stone Inventory Moving List.csproj.AssemblyReference.cache
+C:\Users\withe\source\repos\Mile-Stone Inventory Moving List\Mile-Stone Inventory Moving List\obj\Debug\net6.0-windows\Mile_Stone_Inventory_Moving_List.Form1.resources
+C:\Users\withe\source\repos\Mile-Stone Inventory Moving List\Mile-Stone Inventory Moving List\obj\Debug\net6.0-windows\Mile_Stone_Inventory_Moving_List.Properties.Resources.resources
+C:\Users\withe\source\repos\Mile-Stone Inventory Moving List\Mile-Stone Inventory Moving List\obj\Debug\net6.0-windows\Mile-Stone Inventory Moving List.csproj.GenerateResource.cache
+C:\Users\withe\source\repos\Mile-Stone Inventory Moving List\Mile-Stone Inventory Moving List\obj\Debug\net6.0-windows\Mile-Stone Inventory Moving List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\withe\source\repos\Mile-Stone Inventory Moving List\Mile-Stone Inventory Moving List\obj\Debug\net6.0-windows\Mile-Stone Inventory Moving List.AssemblyInfoInputs.cache
+C:\Users\withe\source\repos\Mile-Stone Inventory Moving List\Mile-Stone Inventory Moving List\obj\Debug\net6.0-windows\Mile-Stone Inventory Moving List.AssemblyInfo.cs
+C:\Users\withe\source\repos\Mile-Stone Inventory Moving List\Mile-Stone Inventory Moving List\obj\Debug\net6.0-windows\Mile-Stone Inventory Moving List.csproj.CoreCompileInputs.cache
+C:\Users\withe\source\repos\Mile-Stone Inventory Moving List\Mile-Stone Inventory Moving List\bin\Debug\net6.0-windows\Mile-Stone Inventory Moving List.exe
+C:\Users\withe\source\repos\Mile-Stone Inventory Moving List\Mile-Stone Inventory Moving List\bin\Debug\net6.0-windows\Mile-Stone Inventory Moving List.deps.json
+C:\Users\withe\source\repos\Mile-Stone Inventory Moving List\Mile-Stone Inventory Moving List\bin\Debug\net6.0-windows\Mile-Stone Inventory Moving List.runtimeconfig.json
+C:\Users\withe\source\repos\Mile-Stone Inventory Moving List\Mile-Stone Inventory Moving List\bin\Debug\net6.0-windows\Mile-Stone Inventory Moving List.dll
+C:\Users\withe\source\repos\Mile-Stone Inventory Moving List\Mile-Stone Inventory Moving List\bin\Debug\net6.0-windows\Mile-Stone Inventory Moving List.pdb
+C:\Users\withe\source\repos\Mile-Stone Inventory Moving List\Mile-Stone Inventory Moving List\obj\Debug\net6.0-windows\Mile-Stone Inventory Moving List.dll
+C:\Users\withe\source\repos\Mile-Stone Inventory Moving List\Mile-Stone Inventory Moving List\obj\Debug\net6.0-windows\refint\Mile-Stone Inventory Moving List.dll
+C:\Users\withe\source\repos\Mile-Stone Inventory Moving List\Mile-Stone Inventory Moving List\obj\Debug\net6.0-windows\Mile-Stone Inventory Moving List.pdb
+C:\Users\withe\source\repos\Mile-Stone Inventory Moving List\Mile-Stone Inventory Moving List\obj\Debug\net6.0-windows\Mile-Stone Inventory Moving List.genruntimeconfig.cache
+C:\Users\withe\source\repos\Mile-Stone Inventory Moving List\Mile-Stone Inventory Moving List\obj\Debug\net6.0-windows\ref\Mile-Stone Inventory Moving List.dll
+C:\Users\withe\source\repos\Mile-Stone Inventory Moving List\Mile-Stone Inventory Moving List\obj\Debug\net6.0-windows\Mile_Stone_Inventory_Moving_List.Form1_Login.resources
+C:\Users\withe\source\repos\Mile-Stone Inventory Moving List\Mile-Stone Inventory Moving List\obj\Debug\net6.0-windows\Mile_Stone_Inventory_Moving_List.Inventory.resources
+C:\Users\withe\source\repos\Mile-Stone Inventory Moving List\Mile-Stone Inventory Moving List\obj\Debug\net6.0-windows\Mile_Stone_Inventory_Moving_List.AddDet.resources
+C:\Users\withe\source\repos\Mile-Stone Inventory Moving List\Mile-Stone Inventory Moving List\obj\Debug\net6.0-windows\Mile_Stone_Inventory_Moving_List.Remove.resources
+C:\Users\withe\source\repos\Mile-Stone Inventory Moving List\Mile-Stone Inventory Moving List\obj\Debug\net6.0-windows\Mile_Stone_Inventory_Moving_List.RoomAvai.resources
+C:\Users\withe\source\repos\Mile-Stone Inventory Moving List\Mile-Stone Inventory Moving List\obj\Debug\net6.0-windows\Mile_Stone_Inventory_Moving_List.Rooms.resources
+C:\Users\withe\source\repos\Mile-Stone Inventory Moving List\Mile-Stone Inventory Moving List\obj\Debug\net6.0-windows\Mile_Stone_Inventory_Moving_List.Search.resources
+C:\Users\withe\source\repos\Mile-Stone Inventory Moving List\Mile-Stone Inventory Moving List\obj\Debug\net6.0-windows\Mile_Stone_Inventory_Moving_List.TheList.resources
